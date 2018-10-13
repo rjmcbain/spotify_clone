@@ -15,9 +15,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="assets/css/style.css">
     <title>Spotify</title>
 </head>
-    <h1>Hello World</h1>
+    <div id="nowPlayingBarContainer">
+        <div id="nowPlayingBar">
+            <div id="nowPlayingLeft"></div>
+            <div id="nowPlayingCenter"></div>
+            <div id="nowPlayingRight"></div>
+        </div>
+    </div>
 <body>
 
 </body>
